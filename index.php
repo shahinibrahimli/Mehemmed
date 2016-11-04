@@ -1,7 +1,7 @@
 
 
 <?php
-$file = 'https://github.com/sahinibrahimli/Mehemmed/files/572478/CV-ESP-Europass-Mahammad-Babayev.pdf';
+$file = 'https://github.com/sahinibrahimli/Mehemmed/files/572489/cv.pdf';
 $filename = 'SH.CV.pdf';
 header('Content-type: application/pdf');
 header('Content-Disposition: inline; filename="' . $filename . '"');
