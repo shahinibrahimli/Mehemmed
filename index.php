@@ -2,7 +2,7 @@
 
 <?php
 $file = 'https://github.com/sahinibrahimli/Mehemmed/files/572489/cv.pdf';
-$filename = 'SH.CV.pdf';
+$filename = 'cv.pdf';
 header('Content-type: application/pdf');
 header('Content-Disposition: inline; filename="' . $filename . '"');
 header('Content-Transfer-Encoding: binary');
